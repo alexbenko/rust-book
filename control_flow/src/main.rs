@@ -19,6 +19,7 @@ fn main() {
 
     return_from_loop();
     for_loop();
+    // there are also while loops
 }
 
 
